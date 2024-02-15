@@ -14,17 +14,17 @@
 
 ## 기능
 
-UI
+#### UI
 * Linealayout
 * TextView
 * Button
 
-Kotlin
+#### Kotlin
 * val, var
 * null
 * 복합 대입 연산자
 
-Android
+#### Android
 * Activity
 * R파일
 * findViewById
