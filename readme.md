@@ -31,7 +31,8 @@
 * setOnClickListener
 * log
 
-## 미리보기
+## 미리보기  
+
 <p align="center">
- <img src = "./res/drawable/counting.png">
+ <img src = "./counting.png">
 </p>
